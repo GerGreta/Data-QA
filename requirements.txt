@@ -1,0 +1,4 @@
+dbt-core
+great_expectations
+pytest
+pandas
